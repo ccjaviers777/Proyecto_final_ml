@@ -47,4 +47,4 @@ Datos: Carpeta donde se almacena el archivo ObesityDataSet_raw_and_data_sintheti
 
 Uso
 Ejecuta el proyecto en Visual Studio code.
-bashCopy codegit clone https://github.com/ccjaviers777/actividad_3_ml/
+bashCopy codegit clone https://github.com/ccjaviers777/Proyecto_final_ml
